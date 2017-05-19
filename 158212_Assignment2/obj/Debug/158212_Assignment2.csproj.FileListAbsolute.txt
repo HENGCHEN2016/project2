@@ -1,0 +1,21 @@
+c:\users\qiuhe\documents\visual studio 2015\Projects\158212_Assignment2\158212_Assignment2\bin\Debug\158212_Assignment2.exe.config
+c:\users\qiuhe\documents\visual studio 2015\Projects\158212_Assignment2\158212_Assignment2\bin\Debug\158212_Assignment2.exe
+c:\users\qiuhe\documents\visual studio 2015\Projects\158212_Assignment2\158212_Assignment2\bin\Debug\158212_Assignment2.pdb
+c:\users\qiuhe\documents\visual studio 2015\Projects\158212_Assignment2\158212_Assignment2\obj\Debug\158212_Assignment2.csprojResolveAssemblyReference.cache
+c:\users\qiuhe\documents\visual studio 2015\Projects\158212_Assignment2\158212_Assignment2\obj\Debug\_158212_Assignment2.Form1.resources
+c:\users\qiuhe\documents\visual studio 2015\Projects\158212_Assignment2\158212_Assignment2\obj\Debug\_158212_Assignment2.Properties.Resources.resources
+c:\users\qiuhe\documents\visual studio 2015\Projects\158212_Assignment2\158212_Assignment2\obj\Debug\158212_Assignment2.csproj.GenerateResource.Cache
+c:\users\qiuhe\documents\visual studio 2015\Projects\158212_Assignment2\158212_Assignment2\obj\Debug\158212_Assignment2.exe
+c:\users\qiuhe\documents\visual studio 2015\Projects\158212_Assignment2\158212_Assignment2\obj\Debug\158212_Assignment2.pdb
+H:\158212\158212_Hengchen Qiu_15310634_Assignment2\158212_Assignment2\158212_Assignment2\bin\Debug\158212_Assignment2.exe.config
+H:\158212\158212_Hengchen Qiu_15310634_Assignment2\158212_Assignment2\158212_Assignment2\obj\Debug\158212_Assignment2.exe
+H:\158212\158212_Hengchen Qiu_15310634_Assignment2\158212_Assignment2\158212_Assignment2\obj\Debug\158212_Assignment2.pdb
+H:\158212\158212_Hengchen Qiu_15310634_Assignment2\158212_Assignment2\158212_Assignment2\bin\Debug\158212_Assignment2.exe
+H:\158212\158212_Hengchen Qiu_15310634_Assignment2\158212_Assignment2\158212_Assignment2\bin\Debug\158212_Assignment2.pdb
+H:\158212\158212_Hengchen Qiu_15310634_Assignment2\158212_Assignment2\158212_Assignment2\obj\Debug\158212_Assignment2.csprojResolveAssemblyReference.cache
+H:\158212\158212_Hengchen Qiu_15310634_Assignment2\158212_Assignment2\158212_Assignment2\obj\Debug\_158212_Assignment2.Form1.resources
+H:\158212\158212_Hengchen Qiu_15310634_Assignment2\158212_Assignment2\158212_Assignment2\obj\Debug\_158212_Assignment2.Properties.Resources.resources
+H:\158212\158212_Hengchen Qiu_15310634_Assignment2\158212_Assignment2\158212_Assignment2\obj\Debug\158212_Assignment2.csproj.GenerateResource.Cache
+J:\158212\158212_Hengchen Qiu_15310634_Assignment2_C\158212_Assignment2\158212_Assignment2\bin\Debug\158212_Assignment2.exe.config
+J:\158212\158212_Hengchen Qiu_15310634_Assignment2_C\158212_Assignment2\158212_Assignment2\obj\Debug\158212_Assignment2.exe
+J:\158212\158212_Hengchen Qiu_15310634_Assignment2_C\158212_Assignment2\158212_Assignment2\obj\Debug\158212_Assignment2.pdb
